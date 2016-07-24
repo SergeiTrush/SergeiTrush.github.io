@@ -229,10 +229,10 @@ body {
     padding: 50px 0;
   }
   .wrapper .header__btl {
-    margin-bottom: 60px;
+    margin-bottom: 50px;
   }
   .app__btl {
-    margin-top: 60px;
+    margin-top: 35px;
   }
 }
 @media only screen and (max-width: 630px) {
