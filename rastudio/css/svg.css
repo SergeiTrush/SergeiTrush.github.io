@@ -1,0 +1,22 @@
+.svg-triangle {
+	width: 100%;
+	max-width: 425px;
+	height: auto;
+}
+.svg {
+    fill-opacity: 0;
+    stroke: #ccc;
+    stroke-width: 12px;
+    opacity: 0.3;
+}
+.svg:hover {
+    stroke: #ffdd05;
+    cursor: pointer;
+	opacity: 1;
+}
+.nav__link:hover .svg {
+    stroke: #ffdd05;
+    cursor: pointer;
+	opacity: 1;	
+}
+
